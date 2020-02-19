@@ -2,8 +2,8 @@
   "name": "capacitor-image-crop",
   "version": "3.0.1",
   "description": "",
-  "main": "dist/esm/index.js",
-  "types": "dist/esm/index.d.ts",
+  "main": "src/index.js",
+  "types": "src/definitions.ts",
   "scripts": {
     "build": "npm run clean && tsc",
     "clean": "rm -rf ./dist",
